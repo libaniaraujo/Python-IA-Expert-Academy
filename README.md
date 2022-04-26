@@ -5,3 +5,8 @@
 </div>
 
 #### Materiais da trilha de cursos de Python e Ciência de Dados da IA Expert Academy
+
+- Lógica de Programação
+- Introdução a programação em Python
+- Estatística
+- Machine Learning
